@@ -10,10 +10,6 @@ namespace Lab3Csharp
 {
     class Program
     {
-        //Signatures
-        static byte[] png = { 137, 80, 78, 71, 13, 10, 26, 10 };
-        static byte[] bmp = { 66, 77 };
-
         static void Main(string[] args)
         {
             int calculateLittleEndian(string binaryNumbers)
