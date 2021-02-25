@@ -1,0 +1,13 @@
+C:\Users\D_J_X\source\repos\Lab3Csharp\bin\Debug\netcoreapp3.1\Lab3Csharp.exe
+C:\Users\D_J_X\source\repos\Lab3Csharp\bin\Debug\netcoreapp3.1\Lab3Csharp.deps.json
+C:\Users\D_J_X\source\repos\Lab3Csharp\bin\Debug\netcoreapp3.1\Lab3Csharp.runtimeconfig.json
+C:\Users\D_J_X\source\repos\Lab3Csharp\bin\Debug\netcoreapp3.1\Lab3Csharp.runtimeconfig.dev.json
+C:\Users\D_J_X\source\repos\Lab3Csharp\bin\Debug\netcoreapp3.1\Lab3Csharp.dll
+C:\Users\D_J_X\source\repos\Lab3Csharp\bin\Debug\netcoreapp3.1\Lab3Csharp.pdb
+C:\Users\D_J_X\source\repos\Lab3Csharp\obj\Debug\netcoreapp3.1\Lab3Csharp.csprojAssemblyReference.cache
+C:\Users\D_J_X\source\repos\Lab3Csharp\obj\Debug\netcoreapp3.1\Lab3Csharp.AssemblyInfoInputs.cache
+C:\Users\D_J_X\source\repos\Lab3Csharp\obj\Debug\netcoreapp3.1\Lab3Csharp.AssemblyInfo.cs
+C:\Users\D_J_X\source\repos\Lab3Csharp\obj\Debug\netcoreapp3.1\Lab3Csharp.csproj.CoreCompileInputs.cache
+C:\Users\D_J_X\source\repos\Lab3Csharp\obj\Debug\netcoreapp3.1\Lab3Csharp.dll
+C:\Users\D_J_X\source\repos\Lab3Csharp\obj\Debug\netcoreapp3.1\Lab3Csharp.pdb
+C:\Users\D_J_X\source\repos\Lab3Csharp\obj\Debug\netcoreapp3.1\Lab3Csharp.genruntimeconfig.cache
